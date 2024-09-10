@@ -5,7 +5,7 @@
 [![Github Badge](https://img.shields.io/badge/-@sakhamuri-aasritha?style=flat&logo=Github&logoColor=white&link=https://github.com/sakhamuri-aasritha)](https://github.com/sakhamuri-aasritha) 
 
 
-<div align="right">
+<div align="center">
     <img src="https://cdn.pixabay.com/photo/2024/05/20/13/27/woman-8775227_1280.png" width="200" alt="Profile Picture">
 </div>
 
