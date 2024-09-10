@@ -15,10 +15,7 @@
 <div align = "center">
 I'm currently pursuing my master's in Computer Science from University of Central Missouri. 
 
-I am an inquisitive software developer with internship experience and have a keen interest in 
-software development, theoretical computer science, algorithms, and problem solving.  
-I am also an out of the box thinker who loves breaking down big problems into smaller actionable
-items and brainstorming innovative solutions.
+I'm a passionate CS grad student with hands-on experience developing applications using Java, Python, and Flask. I'm proficient in AWS and Azure cloud technologies. I improved system performance and reduced defects during an internship at Virtusa IT Services. I've developed and optimized projects, including a Mobile Food Truck Ordering System and image segmentation solutions. I'm certified in Azure, AWS, and web design, and have a strong foundation in database management and software development.
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhamuri-aasritha&langs_count=8)](https://github.com/sakhamuri-aasritha)
