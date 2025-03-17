@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-    <img src="https://in.pinterest.com/pin/5981412000332558/" width="200" alt="Profile Picture">
+    <img src="woman-8775227_1280.png" width="200" alt="Profile Picture">
 </div>
 
 <div align = "center">
