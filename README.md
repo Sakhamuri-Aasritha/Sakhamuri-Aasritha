@@ -23,10 +23,10 @@
 I'm a dedicated and enthusiastic software developer with strong experience in building backend systems using Java, Spring Boot, and RESTful APIs. During my internship, I contributed to improving system performance, debugging backend logic, and optimizing frontend features using AngularJS and JavaScript.
 
 I have worked on several projects involving:
-  Java-based food ordering systems
-  REST API design and development
-  Cloud integration with AWS & Azure
-  Full-stack applications using HTML, CSS, JavaScript, and AngularJS
+  - Java-based food ordering systems
+  - REST API design and development
+  - Cloud integration with AWS & Azure
+  - Full-stack applications using HTML, CSS, JavaScript, and AngularJS
 
 🛠️ Tech Stack: `Java` `Spring Boot` `MySQL` `JPA/Hibernate` `HTML/CSS` `JavaScript` `AngularJS` `AWS` `Azure`
 
