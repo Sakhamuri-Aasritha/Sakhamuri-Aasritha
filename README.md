@@ -13,9 +13,25 @@
 </div>
 
 <div align = "center">
-I'm currently pursuing my master's in Computer Science from University of Central Missouri. 
+# 👋 Hi, I'm Aasritha Sakhamuri!
 
-I'm a passionate CS grad student with hands-on experience developing applications using Java, Python, and Flask. I'm proficient in AWS and Azure cloud technologies. I improved system performance and reduced defects during an internship at Virtusa IT Services. I've developed and optimized projects, including a Mobile Food Truck Ordering System and image segmentation solutions. I'm certified in Azure, AWS, and web design, and have a strong foundation in database management and software development.
+🎓 Master's in Computer Science | University of Central Missouri  
+💼 Former Software Developer Intern @ Focalone Soft Inc.  
+☁️ Certified in AWS & Azure | Backend Development | Java | Spring Boot  
+📍 Actively seeking Software Engineer / Backend Developer roles
+
+I'm a dedicated and enthusiastic software developer with strong experience in building backend systems using Java, Spring Boot, and RESTful APIs. During my internship, I contributed to improving system performance, debugging backend logic, and optimizing frontend features using AngularJS and JavaScript.
+
+I have worked on several projects involving:
+- Java-based food ordering systems
+- REST API design and development
+- Cloud integration with AWS & Azure
+- Full-stack applications using HTML, CSS, JavaScript, and AngularJS
+
+🛠️ Tech Stack: `Java` `Spring Boot` `MySQL` `JPA/Hibernate` `HTML/CSS` `JavaScript` `AngularJS` `AWS` `Azure`
+
+📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com/in/aasritha-sakhamuri-25b314216) | [Email](mailto:aasrithas068@gmail.com)
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhamuri-aasritha&langs_count=8)](https://github.com/sakhamuri-aasritha)
