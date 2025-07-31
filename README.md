@@ -35,7 +35,7 @@
 |--------|-------------|--------------|
 | [📄 LLM-Powered Document Q&A Assistant (RAG System)](https://github.com/Sakhamuri-Aasritha/rag-llm-assistant) | A context-aware assistant for answering questions from documents, voice, and image inputs | FAISS, OpenAI Embeddings, Whisper, Tesseract, Streamlit |
 | [🧬 Image Segmentation Using Mask R-CNN *(Published Research)*](https://github.com/Sakhamuri-Aasritha/IMAGE-SEGMENTATION-USING-MASK-RCNN)| Object detection and segmentation using CNN + RPN-based architecture for medical imaging | Keras, TensorFlow, OpenCV |
-| [🧠 Multi-Modal RAG System](https://github.com/your-username/multimodal-rag) | Combines voice, OCR, and text for intelligent document understanding | Whisper, Tesseract, Streamlit, LangChain |
+| [🧠 Multi-Modal RAG System](https://github.com/Sakhamuri-Aasritha/multi-modal-rag-system) | Combines voice, OCR, and text for intelligent document understanding | Whisper, Tesseract, Streamlit, LangChain |
 
 ---
 
