@@ -11,8 +11,11 @@
 </p>
 
 <p align="center">
+  <a href="https://aasritha-sakhamuri-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/aasritha-sakhamuri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" /></a>
-  <a href="mailto:saasritha6778@email.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=flat-square" /></a>
+  <a href="mailto:aasrithas83@email.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white&style=flat-square" /></a>
 
 </p>
 
