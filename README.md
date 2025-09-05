@@ -1,5 +1,6 @@
+<!--
 <h2 align="center">Hi, I'm Aasritha Sakhamuri! <img src="https://media.tenor.com/kQcGDGtb79QAAAAi/alice-animated-alice-stickers.gif" width="60"></h2>
-<!-- Animated Banner -->
+ Animated Banner 
 <div align="center">
   <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" align="center" />
 </div>
@@ -83,4 +84,4 @@
 
 ⭐️ *Thanks for stopping by! Let’s innovate with intelligence.* 🚀
 
-
+-->
